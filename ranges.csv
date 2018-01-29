@@ -8,16 +8,16 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 361650,361654,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
 361766,,,,diners,Diners Club,credit,,CZ,DINERS CLUB INTERNATIONAL CS,,www.dinersclub.cz,+420 255 712 712,PRAGUE
 364124,364125,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
-364718,,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
 364681,364683,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
+364718,,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
 364828,364830,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
 365405,,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
 365431,,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
 365573,365574,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
-365654,365646,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
-371001,371003,,,amex,American Express,credt,,KR,HANA CARD,,hanacard.co.kr,+82 1800 1111,Seoul
+365645,365646,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
 370245,,,,amex,American Express,credit,,VE,BANESCO BANCO UNIVERSAL S.A.,,www.banesco.com,+58 212 501 11 11,CARACAS
 370266,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,8662077970,
+371001,371003,,,amex,American Express,credit,,KR,HANA CARD,,hanacard.co.kr,+82 1800 1111,Seoul
 371240,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,8005253355,
 371241,371242,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,8005284800,
 371270,,,,amex,,credit,,US,DELTA SKYMILES,,www.americanexpress.com,8002976200,
@@ -129,7 +129,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 374632,,,,amex,,credit,,US,BANK OF AMERICA,,www.americanexpress.com,8009006651,
 374716,,,,amex,,credit,,US,FIDELITY,,www.americanexpress.com,8778117088,
 374720,,,,amex,,credit,,US,BANK OF AMERICA,,www.americanexpress.com,8047883061,
-374722,374724,,,amex,American Express,credt,,KR,HANA CARD,,hanacard.co.kr,+82 1800 1111,Seoul
+374722,374724,,,amex,American Express,credit,,KR,HANA CARD,,hanacard.co.kr,+82 1800 1111,Seoul
 374725,,,,amex,American Express,credit,,KR,KOOKMIN CARD,,kbcard.com,+82 2 6300 7300
 374735,,,,amex,American Express,debit,,KR,HANA CARD,,hanacard.co.kr,+82 1800 1111,Seoul
 375001,,,,amex,,credit,,DE,AMERICAN EXPRESS,,www.americanexpress.com,496997971000,
