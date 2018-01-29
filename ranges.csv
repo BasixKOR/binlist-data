@@ -147,6 +147,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 376066,,,,amex,,credit,,AU,AMERICAN EXPRESS,,www.americanexpress.com,61292714498,
 376073,376074,,,amex,,credit,,AU,AMERICAN EXPRESS,,www.americanexpress.com,61,
 376212,,,,amex,,credit,,SG,AMERICAN EXPRESS,,www.americanexpress.com,6563966888,
+376250,376292,,,amex,,credit,,KR,LOTTE CARD,,lottecard.co.kr,,Seoul
 376402,,,,amex,,credit,,AR,,,www.americanexpress.com,,
 376418,,,,amex,,credit,,AR,AMERICAN EXPRESS,,www.americanexpress.com,08004442450,
 376437,,,,amex,,credit,,BR,AMERICANEXPRESS,,www.americanexpress.com,553421026266,
