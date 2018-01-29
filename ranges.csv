@@ -15,6 +15,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 365431,,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
 365573,365574,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
 365654,365646,,,diners,Diners Club International,credit,,KR,HYUNDAI CARD,,hyundaicard.com,+82 2 3015 9000
+371001,371003,,,amex,American Express,credt,,KR,HANA CARD,,hanacard.co.kr,+82 1800 1111,Seoul
 370245,,,,amex,American Express,credit,,VE,BANESCO BANCO UNIVERSAL S.A.,,www.banesco.com,+58 212 501 11 11,CARACAS
 370266,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,8662077970,
 371240,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,8005253355,
@@ -128,11 +129,15 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 374632,,,,amex,,credit,,US,BANK OF AMERICA,,www.americanexpress.com,8009006651,
 374716,,,,amex,,credit,,US,FIDELITY,,www.americanexpress.com,8778117088,
 374720,,,,amex,,credit,,US,BANK OF AMERICA,,www.americanexpress.com,8047883061,
+374722,374724,,,amex,American Express,credt,,KR,HANA CARD,,hanacard.co.kr,+82 1800 1111,Seoul
+374725,,,,amex,American Express,credit,,KR,KOOKMIN CARD,,kbcard.com,+82 2 6300 7300
+374735,,,,amex,American Express,debit,,KR,HANA CARD,,hanacard.co.kr,+82 1800 1111,Seoul
 375001,,,,amex,,credit,,DE,AMERICAN EXPRESS,,www.americanexpress.com,496997971000,
 375080,,,,amex,,credit,,DE,AMERICAN EXPRESS,,www.americanexpress.com,06997972000,
 375081,,,,amex,,credit,,DE,AMERICAN EXPRESS,,www.americanexpress.com,496997972000,
 375135,,,,amex,,credit,,BR,BRADESCO,,www.americanexpress.com,,
 375138,,,,amex,,credit,,BR,BRADESCO,,www.americanexpress.com,,
+375144,,,,amex,American Express,credit,,KR,KOOKMIN CARD,,kbcard.com,+82 2 6300 7300
 375415,,,,amex,,credit,,AU,COMMONWEALTH,,www.americanexpress.com,61299993283,
 375417,,,,amex,,credit,,NO,AMERICAN EXPRESS,,www.americanexpress.com,4766984370,
 375699,,,,amex,,credit,,ES,BANCO SABADELL,,www.americanexpress.com,,
